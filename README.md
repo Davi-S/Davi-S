@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Davi
+- 👀 I’m interested in Programing android apps 
+- 🌱 I’m currently learning python and kotlin
+- 📫 How to reach me: davialvessampaio00@gmail.com
