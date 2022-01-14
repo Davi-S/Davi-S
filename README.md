@@ -4,3 +4,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrew&layout=compact&langs_count=7&theme=tokyonight&card_width=435"/>
 </div>
 
+![Snake animation](https://github.com/Davi-S/Davi-S/blob/output/github-contribution-grid-snake.svg)
