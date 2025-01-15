@@ -97,3 +97,97 @@ When you click on a link and submit a new issue with the desired move, a GitHub 
 Original game: [marcizhu/readme-chess](https://github.com/marcizhu/readme-chess)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00619b&height=120&section=footer"/>
+
+# ASCII art
+
+```
+               ______
+           .-'      `-.
+          /            \
+         |,  .-.  .-.  ,|
+         | )(_o/  \o_)( |
+         |/     /\     \|
+         (_     ^^     _)
+          \__|IIIIII|__/
+           | \IIIIII/ |
+           \          /
+            `--------`
+
+           FINAL BOSS: BUGZILLA
+   ┌──────────────────────────────┐
+   │                              │
+   │       UNHANDLED EXCEPTION    │
+   │                              │
+   │      - Stack Overflow        │
+   │      - 1,294 Errors Found    │
+   │      - Memory Leak Detected  │
+   │                              │
+   └──────────────────────────────┘
+
+The Developer:
+      (╯°□°）╯︵ ┻━┻
+          *YEET*
+
+The Keyboard:
+        ┬──┬ ノ( ゜-゜ノ)
+          *FLIES ACROSS THE ROOM*
+
+Meanwhile, the code:
+     __     ______  _    _   _      ____   _     _   _______
+     \ \   / / __ \| |  | | | |    / __ \ | |   | | |__   __|
+      \ \_/ / |  | | |  | | | |   | |  | || |   | |    | |
+       \   /| |  | | |  | | | |   | |  | || |   | |    | |
+        | | | |__| | |__| | | |___| |__| || |___| |    | |
+        |_|  \____/ \____/  |______\____/  \_____/     |_| 
+
+The Desk:
+         ____________
+        |            |
+        |    CRASH   |
+        |            |
+        |____________|
+
+Coffee Level: 0%
+     ~~~~~~~~~~
+     |         |
+     |   OUT   |
+     |         |
+     ~~~~~~~~~~
+
+Brain Status:
+        /| _  _  |\
+       | || || || |
+        \_______/
+       ( SHUTTING DOWN )
+
+Meanwhile, Debugger Logs:
+       ___________________________________
+      |                                   |
+      | * Infinite Loop Detected         |
+      | * Variable "x" Undefined         |
+      | * Syntax Error on Line 1         |
+      | * Unknown Error: Code (42)       |
+      |___________________________________|
+
+The Monitor:
+       _______
+     _|       |_   * flickers *
+    | |  404  | |
+    | |_______| |
+    |___________|
+
+The Backup Plan:
+      (╯°□°)╯︵  .c
+      *throws laptop*
+
+Roommate's Reaction:
+          (ಠ_ಠ) *bruh*
+
+Sudden Inspiration at 3:37 AM:
+          ┌───────────────┐
+          │ eureka! Fixed │
+          └───────────────┘
+          (╯✧▽✧)╯
+
+```
+
