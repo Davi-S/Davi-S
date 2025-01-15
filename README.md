@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00619b&height=120&section=header"/>
-
 <div align="center">
   <br>
   <p align="centre"><b>Visitors Count</b></p>
@@ -189,4 +187,3 @@ Sudden Inspiration at 3:37 AM:
 
 ```
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00619b&height=120&section=footer"/>
