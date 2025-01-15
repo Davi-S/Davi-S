@@ -96,8 +96,6 @@ When you click on a link and submit a new issue with the desired move, a GitHub 
 
 Original game: [marcizhu/readme-chess](https://github.com/marcizhu/readme-chess)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00619b&height=120&section=footer"/>
-
 # ASCII art
 
 ```
@@ -191,3 +189,4 @@ Sudden Inspiration at 3:37 AM:
 
 ```
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00619b&height=120&section=footer"/>
