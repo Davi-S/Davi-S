@@ -52,7 +52,7 @@ When you click on a link and submit a new issue with the desired move, a GitHub 
 </details>
 
 <details>
-  <summary>Top 10 most moves across all games</summary>
+  <summary>Top 10 most movers across all games</summary>
 <!-- BEGIN TOP MOVES -->
 
 | Total moves |  User  |
