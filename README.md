@@ -1,5 +1,19 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00619b&height=120&section=header"/>
 
+<div align="center">
+  <br>
+  <p align="centre"><b>Visitors Count</b></p>
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Davi-S}/count.svg" /></p> 
+  <br>
+</div>
+
+## Hi, I'm Davi
+
+<div align="center">  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-S&layout=compact&hide_border=true&title_color=709fbf&text_color=00bfbf&bg_color=0d1117" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Davi-S&theme=onestar&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</div>
+
 ## GitHub README Chess Tournament
 
 This is an open chess tournament where ANYONE can play. That's the fun part.  
