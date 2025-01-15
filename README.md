@@ -1,4 +1,6 @@
-# GitHub README Chess Tournament
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00619b&height=120&section=header"/>
+
+## GitHub README Chess Tournament
 
 This is an open chess tournament where ANYONE can play. That's the fun part.  
 It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece.
@@ -64,3 +66,5 @@ When you click on a link and submit a new issue with the desired move, a GitHub 
 ---
 
 Original game: [marcizhu/readme-chess](https://github.com/marcizhu/readme-chess)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00619b&height=120&section=footer"/>
