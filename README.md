@@ -35,4 +35,4 @@ When you click on a link and submit a new issue with the desired move, a GitHub 
 
 ---
 
-Original game: [marcizhu/readme-chess](https://github.com/marcizhu/readme-chess)!
+Original game: [marcizhu/readme-chess](https://github.com/marcizhu/readme-chess)
