@@ -14,6 +14,13 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Davi-S&theme=onestar&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </div>
 
+- Writing code since 2019 💪🏻
+
+- Whether it's solving problems through code, configuring my Linux system for the nth time, or learning some new language, I thrive on new challenges.
+
+- When I'm not coding or geeking out over tech, you can find me playing the piano, enjoying classical and jazz music, playing chess, or diving deep into books on philosophy and science.
+
+
 ## GitHub README Chess Tournament
 
 This is an open chess tournament where ANYONE can play. That's the fun part.  
