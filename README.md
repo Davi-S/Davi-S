@@ -1,8 +1,8 @@
 # About Me
 
-I'm a Brazilian developer born in 2004 who has been writing code since 2019. My expertise is Python programming, and I appreciate good software architecture. Currently, I'm exploring various projects related to Linux (I use Arch btw) utility tools, and AI related projects.
+I'm a Brazilian developer born in 2004, having started writing code in 2019. My expertise lies in Python programming, and I appreciate well-structured software architecture. Currently, I'm exploring various projects related to Linux (I use Arch, btw), utility tools, and AI-related projects.
 
-When I'm not coding or geeking out over tech, you can find me playing the piano, enjoying classical and jazz music, playing chess, or diving deep into some philosophy and science.
+When I'm not coding or geeking out over tech, you can find me playing the piano, enjoying classical and jazz music, or playing chess.
 
 ## Skills & Technologies
 
