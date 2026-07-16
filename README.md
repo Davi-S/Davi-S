@@ -11,4 +11,4 @@ When I'm not coding or geeking out over tech, you can find me playing the piano,
 ## Certification & Education
 
 - [CS50 by Harvard University](https://certificates.cs50.io/19509252-8a6a-4176-94f9-811b84b018fa.pdf?size=letter) - CS50, Harvard University, 2022
-- Studying Bachelor of Computer Science at the Federal University of Paraná
+- Bachelor of Computer Science at the Federal University of Paraná - UFPR, 2029
