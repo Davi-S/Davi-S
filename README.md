@@ -8,14 +8,7 @@ When I'm not coding or geeking out over tech, you can find me playing the piano,
 
 <img align="center" src="https://skillicons.dev/icons?i=py,qt,discord,flask,js,html,css,vscode,neovim,obsidian,md,git,github,linux,arch,react&perline=8" />
 
-## GitHub Stats
-
-<div align="center">  
-  <img width="41%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-S&layout=compact&hide_border=true&title_color=709fbf&text_color=00bfbf&bg_color=0d1117" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Davi-S&theme=onestar&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</div>
-
-## Certifications
+## Certification & Education
 
 - [CS50 by Harvard University](https://certificates.cs50.io/19509252-8a6a-4176-94f9-811b84b018fa.pdf?size=letter) - CS50, Harvard University, 2022
 - Studying Bachelor of Computer Science at the Federal University of Paraná
