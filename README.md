@@ -6,7 +6,7 @@ When I'm not coding or geeking out over tech, you can find me playing the piano,
 
 ## Skills & Technologies
 
-<img align="center" src="https://skillicons.dev/icons?i=py,qt,discord,flask,js,html,css,vscode,neovim,obsidian,md,git,github,linux,archl&perline=8" />
+<img align="center" src="https://skillicons.dev/icons?i=py,qt,discord,flask,js,html,css,vscode,neovim,obsidian,md,git,github,linux,arch,reactl&perline=8" />
 
 ## GitHub Stats
 
